@@ -1,0 +1,9 @@
+flask
+gradio
+pandas
+numpy
+joblib
+scikit-learn==1.6.1
+reportlab
+mysql-connector-python
+xgboost
